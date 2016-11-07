@@ -50,11 +50,27 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 
  [ให้สรุปผลการทดลอง แล้ว commit changes จากนั้นให้ส่งไปที่ edmodo]
  เหตุผลที่ต้องแจ้ง เพราะส่วนใหญ่ไม่ได้ใช้ชื่อจริง + รหัสนักศึกษา ในการสมัคร github
-![]()
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/1.JPG?raw=true)
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
+ไม่มี
 2. ให้ทดลองแก้ไข <code> MessageBox(...) </code> โดยการเปลี่ยน <code> MB_OK </code> เป็นค่าอื่นๆ [ดูได้จากอ้างอิงตามลิงค์นี้](https://github.com/Desktop-Programming-Lab-2559/LAB-01/blob/master/message-box.md)
 
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/2.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/3.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/4.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/5.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/6.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/7.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/8.JPG?raw=true)
+
+![](https://github.com/fernsunicha/LAB-01/blob/master/imgs/9.JPG?raw=true)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
